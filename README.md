@@ -1,7 +1,7 @@
 # CoolStreamScripts
 
-![Twitch Status](https://img.shields.io/twitch/status/Floofys?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/flooofys?style=social)
+[![Twitch Status](https://img.shields.io/twitch/status/Floofys?style=social)](https://www.twitch.tv/floofys)
+[![Twitter Follow](https://img.shields.io/twitter/follow/flooofys?style=social)](https://twitter.com/Flooofys)
 [![Discord](https://img.shields.io/discord/764118827712643103.svg?label=Discord&logo=discord&maxAge=3600)](https://discord.gg/eEkpcFKDmY)
 
 ## Description
